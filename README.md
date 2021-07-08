@@ -1,7 +1,7 @@
 ## teknikal-test2
-# membuat sebuah nested loop dengan pola maze menggunakan javascript
+## membuat sebuah nested loop dengan pola maze menggunakan javascript
 
-## 1. Source code test.js
+### 1. Source code test.js
 ```bash
 var s = "";
 var p = 2;
@@ -29,7 +29,7 @@ for (var i = 1; i <= 15; i++) {
 console.log(s);
 ```
 
-## Hasil
+### Hasil
 ```bash
 @ @@@@@@@@@@@@@
 @             @
@@ -48,4 +48,4 @@ console.log(s);
 @@@@@@@@@@@@@ @
 ```
 
-## 3. Untuk menjalankan bisa lewat Browser dengan menginputkan latihan.html ke url atau bisa menggunakan terminal dengan mengetikan ```node test.js```
+### 3. Untuk menjalankan bisa lewat Browser dengan menginputkan latihan.html ke url atau bisa menggunakan terminal dengan mengetikan ```node test.js```
